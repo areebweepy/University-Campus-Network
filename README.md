@@ -48,6 +48,8 @@ Design a complete university network with:
 - **OSPF** protocol used between routers
 - Automatically adapts to changes in topology
 
+---
+
 ### 🔐 Network Security Features
 | Feature             | Description                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
