@@ -72,11 +72,12 @@ Design a complete university network with:
 ## 📁 Project Structure
 ```
 university-network-project/
-├── README.md
-├── university-campus.pkt 
 ├── network-diagrams/ 
    ├── main-campus.png
    ├── sub-campus.png
+├── README.md
+├── university-network.pkt 
+
 ```
 ---
 
